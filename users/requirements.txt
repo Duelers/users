@@ -1,0 +1,6 @@
+aiohttp
+pyyaml
+pyjwt
+passlib
+sqlalchemy
+aiopg[sa]
