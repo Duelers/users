@@ -1,9 +1,6 @@
 name: Docker build
 
-on:
-  push:
-    branches:
-      - dedicated_server
+on: [push]
 
 jobs:
   build:
